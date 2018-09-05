@@ -1,0 +1,1000 @@
+341;Haifa;Rotchild;58;3066745
+271;Eilat;Dov Hoz;15;4613293
+311;Jerusalem;Weizmann;14;3377107
+616;Ashdod;Balfur;95;4339133
+808;Tel-Aviv;Herzl;23;4262667
+7;Eilat;Rotchild;48;6481525
+35;Ashdod;Balfur;69;2187447
+108;Tel-Aviv;Balfur;80;2540574
+8;Eilat;Balfur;70;3937542
+546;Ramat-Gan;Rotchild;66;6000287
+672;Haifa;Weizmann;23;4758134
+32;Ashdod;Rotchild;10;3442353
+24;Eilat;Dov Hoz;78;4259044
+172;Ashdod;Rotchild;89;5510509
+868;Eilat;Rotchild;64;4598936
+363;Haifa;Herzl;34;2455479
+687;Eilat;Herzl;20;3861285
+873;Jerusalem;Balfur;30;6048970
+854;Ashdod;Herzl;29;6686202
+994;Jerusalem;Herzl;87;6004191
+26;Jerusalem;Rotchild;72;2467309
+451;Tel-Aviv;Weizmann;33;4449062
+592;Eilat;Balfur;14;3685274
+203;Ramat-Gan;Dov Hoz;28;5363118
+193;Jerusalem;Rotchild;29;2202421
+782;Ramat-Gan;Herzl;48;2466323
+472;Jerusalem;Balfur;62;4554878
+87;Tel-Aviv;Herzl;78;5395630
+399;Tel-Aviv;Balfur;42;6060278
+284;Tel-Aviv;Dov Hoz;35;4621009
+415;Ramat-Gan;Balfur;40;5618496
+661;Ramat-Gan;Balfur;62;5537830
+255;Tel-Aviv;Herzl;58;4398768
+144;Ashdod;Dov Hoz;19;2959305
+343;Ramat-Gan;Weizmann;28;2792832
+34;Ramat-Gan;Weizmann;5;5943419
+686;Eilat;Rotchild;48;4974248
+667;Ashdod;Rotchild;79;6784730
+298;Jerusalem;Dov Hoz;56;6390477
+499;Ramat-Gan;Weizmann;66;6451489
+391;Tel-Aviv;Balfur;22;4877178
+323;Eilat;Balfur;80;2102258
+740;Ramat-Gan;Balfur;51;4934105
+963;Tel-Aviv;Dov Hoz;31;6679310
+758;Jerusalem;Weizmann;52;5016354
+788;Tel-Aviv;Weizmann;81;2557349
+253;Tel-Aviv;Weizmann;81;2569664
+454;Tel-Aviv;Herzl;27;6986401
+354;Haifa;Weizmann;71;6276394
+476;Haifa;Weizmann;21;6710071
+738;Ashdod;Weizmann;8;6390332
+116;Ramat-Gan;Dov Hoz;21;6876870
+763;Ashdod;Herzl;57;6279907
+975;Ramat-Gan;Weizmann;20;6737550
+716;Jerusalem;Weizmann;36;6688196
+885;Tel-Aviv;Weizmann;46;6117814
+748;Jerusalem;Rotchild;58;2928476
+560;Eilat;Weizmann;50;3201203
+741;Eilat;Weizmann;9;3644842
+910;Haifa;Balfur;97;4511755
+624;Ashdod;Herzl;57;2744875
+842;Jerusalem;Herzl;24;5248227
+152;Haifa;Weizmann;63;4994610
+443;Tel-Aviv;Herzl;11;2682102
+728;Ashdod;Weizmann;3;6896376
+920;Tel-Aviv;Rotchild;51;3368659
+384;Tel-Aviv;Rotchild;44;6619128
+607;Tel-Aviv;Dov Hoz;100;3613517
+397;Ramat-Gan;Herzl;43;4874798
+135;Jerusalem;Balfur;47;4493804
+74;Jerusalem;Balfur;61;3536958
+234;Eilat;Balfur;75;6867960
+881;Haifa;Balfur;86;6154791
+258;Ashdod;Rotchild;26;5279115
+593;Ashdod;Balfur;65;2468074
+527;Tel-Aviv;Weizmann;18;3814781
+834;Eilat;Weizmann;74;2182437
+742;Ashdod;Dov Hoz;29;4294509
+559;Haifa;Weizmann;1;4193681
+101;Tel-Aviv;Balfur;15;6704289
+766;Haifa;Weizmann;40;3236074
+796;Haifa;Balfur;5;5329882
+58;Ashdod;Rotchild;51;3684635
+131;Jerusalem;Weizmann;59;6937416
+223;Haifa;Herzl;90;3813721
+829;Ashdod;Weizmann;82;6441367
+617;Haifa;Weizmann;91;4278947
+430;Jerusalem;Rotchild;16;4527526
+951;Ashdod;Balfur;82;3010235
+512;Ramat-Gan;Weizmann;33;2212973
+628;Eilat;Weizmann;82;5889126
+262;Tel-Aviv;Balfur;17;2003687
+423;Haifa;Balfur;7;4150198
+517;Tel-Aviv;Rotchild;82;6206210
+769;Jerusalem;Weizmann;59;2146714
+839;Jerusalem;Rotchild;47;4370944
+455;Jerusalem;Balfur;14;6950380
+587;Jerusalem;Balfur;55;3311917
+556;Tel-Aviv;Rotchild;9;6216668
+185;Tel-Aviv;Dov Hoz;66;2887569
+919;Tel-Aviv;Weizmann;94;6061138
+31;Ramat-Gan;Rotchild;35;2490724
+948;Ramat-Gan;Balfur;37;6349502
+142;Ramat-Gan;Rotchild;87;6155468
+610;Ramat-Gan;Balfur;81;3521994
+268;Jerusalem;Herzl;14;2661795
+734;Eilat;Rotchild;83;4768519
+713;Haifa;Dov Hoz;87;6099517
+137;Jerusalem;Dov Hoz;42;4842743
+666;Ashdod;Weizmann;97;2854450
+113;Haifa;Rotchild;51;5041226
+328;Ramat-Gan;Dov Hoz;8;2457368
+62;Ashdod;Herzl;73;2998210
+982;Tel-Aviv;Rotchild;36;6725777
+12;Eilat;Dov Hoz;15;2184150
+878;Tel-Aviv;Rotchild;56;5645846
+38;Tel-Aviv;Herzl;69;3778087
+887;Ashdod;Weizmann;82;2750489
+264;Ramat-Gan;Dov Hoz;6;4103968
+315;Ramat-Gan;Rotchild;35;3533165
+529;Jerusalem;Balfur;42;4031143
+565;Tel-Aviv;Dov Hoz;38;5880473
+356;Tel-Aviv;Dov Hoz;92;3759150
+631;Ashdod;Rotchild;82;3519749
+698;Haifa;Dov Hoz;88;2388238
+746;Haifa;Herzl;65;6652693
+110;Jerusalem;Rotchild;20;4694904
+140;Tel-Aviv;Weizmann;46;3646115
+737;Jerusalem;Balfur;57;5325389
+973;Ramat-Gan;Dov Hoz;42;2931382
+911;Jerusalem;Herzl;95;6030292
+744;Jerusalem;Dov Hoz;75;4554533
+294;Ramat-Gan;Weizmann;93;2070223
+906;Ramat-Gan;Balfur;75;2649492
+573;Eilat;Weizmann;99;5039109
+340;Ramat-Gan;Herzl;88;2378726
+188;Jerusalem;Herzl;76;5312476
+370;Tel-Aviv;Weizmann;98;3933260
+810;Eilat;Weizmann;88;5297442
+331;Eilat;Weizmann;92;5508266
+988;Haifa;Herzl;66;6152996
+401;Jerusalem;Rotchild;79;6902896
+37;Haifa;Herzl;91;5515283
+621;Haifa;Weizmann;43;2421018
+714;Haifa;Rotchild;79;6944758
+404;Jerusalem;Dov Hoz;33;2461178
+143;Ramat-Gan;Dov Hoz;87;6322046
+537;Eilat;Weizmann;65;4933634
+704;Tel-Aviv;Weizmann;28;3884245
+508;Ashdod;Dov Hoz;42;2358279
+730;Jerusalem;Dov Hoz;79;2965609
+486;Ashdod;Dov Hoz;20;6324537
+92;Jerusalem;Rotchild;43;5908748
+875;Ashdod;Balfur;76;2303794
+383;Ramat-Gan;Herzl;66;4382351
+118;Jerusalem;Weizmann;7;4822919
+351;Ashdod;Rotchild;39;4648071
+718;Ramat-Gan;Dov Hoz;95;2530282
+743;Tel-Aviv;Dov Hoz;16;6044623
+703;Ramat-Gan;Weizmann;86;6272927
+362;Ramat-Gan;Weizmann;51;4148156
+543;Ramat-Gan;Herzl;25;4547482
+926;Haifa;Balfur;11;2697657
+526;Jerusalem;Balfur;75;4890609
+243;Ramat-Gan;Herzl;14;4871406
+19;Jerusalem;Balfur;69;2947339
+912;Jerusalem;Dov Hoz;14;2246698
+939;Ramat-Gan;Rotchild;80;6583847
+422;Jerusalem;Herzl;92;4728270
+685;Eilat;Dov Hoz;58;2289145
+843;Ramat-Gan;Rotchild;38;2197630
+964;Tel-Aviv;Rotchild;16;6078871
+950;Haifa;Weizmann;2;6710916
+770;Jerusalem;Balfur;53;3564230
+520;Ashdod;Dov Hoz;13;3315506
+997;Haifa;Balfur;13;2574674
+580;Haifa;Balfur;5;4080191
+861;Jerusalem;Rotchild;1;4423227
+81;Tel-Aviv;Dov Hoz;63;5699091
+452;Eilat;Weizmann;19;3702121
+94;Ashdod;Rotchild;62;2885352
+174;Tel-Aviv;Rotchild;37;2832262
+518;Tel-Aviv;Herzl;90;5104258
+156;Tel-Aviv;Weizmann;20;5058163
+77;Ramat-Gan;Herzl;72;2493829
+495;Jerusalem;Herzl;80;6458902
+426;Ashdod;Rotchild;62;4352530
+303;Tel-Aviv;Dov Hoz;42;4008273
+469;Eilat;Herzl;63;2976847
+813;Eilat;Dov Hoz;64;3634466
+572;Ramat-Gan;Herzl;13;5629125
+872;Ramat-Gan;Herzl;76;4248834
+42;Tel-Aviv;Herzl;59;3331651
+80;Eilat;Dov Hoz;22;5916001
+471;Jerusalem;Herzl;63;2566385
+670;Haifa;Balfur;56;5721236
+664;Jerusalem;Dov Hoz;91;4941264
+88;Ashdod;Balfur;27;3865690
+608;Haifa;Rotchild;69;6686908
+663;Tel-Aviv;Rotchild;99;3840056
+447;Eilat;Rotchild;22;2746316
+46;Ashdod;Dov Hoz;10;2668366
+179;Ashdod;Herzl;4;2127691
+902;Tel-Aviv;Dov Hoz;66;3186218
+165;Haifa;Rotchild;89;5994056
+5;Ashdod;Balfur;97;6538308
+539;Tel-Aviv;Balfur;35;3006970
+915;Ramat-Gan;Herzl;59;6875776
+117;Eilat;Balfur;52;3513736
+242;Ramat-Gan;Herzl;89;3697550
+702;Eilat;Rotchild;55;4642629
+176;Jerusalem;Balfur;36;3773470
+838;Eilat;Balfur;7;2474777
+405;Haifa;Dov Hoz;61;3826724
+462;Eilat;Weizmann;39;6331029
+818;Tel-Aviv;Balfur;5;5293329
+860;Ramat-Gan;Herzl;1;3462628
+695;Jerusalem;Herzl;41;5235577
+93;Ramat-Gan;Dov Hoz;94;6610771
+967;Haifa;Weizmann;100;3615331
+970;Eilat;Herzl;54;4939051
+218;Haifa;Herzl;2;5513842
+102;Ashdod;Herzl;74;4613792
+925;Eilat;Herzl;58;3609746
+124;Jerusalem;Dov Hoz;24;2203254
+757;Eilat;Weizmann;52;5920990
+261;Haifa;Rotchild;7;3604604
+416;Jerusalem;Balfur;8;5220238
+551;Tel-Aviv;Weizmann;100;3900667
+205;Eilat;Weizmann;19;6036701
+660;Haifa;Weizmann;89;5475259
+858;Ramat-Gan;Weizmann;83;3696487
+314;Tel-Aviv;Dov Hoz;72;6495589
+382;Haifa;Weizmann;9;6024492
+419;Haifa;Rotchild;78;5169155
+106;Ramat-Gan;Balfur;24;2925485
+440;Tel-Aviv;Herzl;49;6569851
+194;Ashdod;Balfur;23;2956559
+693;Jerusalem;Dov Hoz;35;2114808
+195;Haifa;Weizmann;87;6011833
+908;Ramat-Gan;Dov Hoz;33;2566921
+279;Haifa;Rotchild;45;4387852
+623;Jerusalem;Herzl;78;2973425
+221;Jerusalem;Dov Hoz;65;5531957
+299;Jerusalem;Balfur;44;4365153
+464;Ramat-Gan;Herzl;12;6030470
+437;Haifa;Rotchild;56;4461003
+2;Ramat-Gan;Balfur;92;4097704
+890;Eilat;Weizmann;5;5634136
+29;Jerusalem;Rotchild;35;3838115
+568;Ashdod;Herzl;83;2961695
+115;Ashdod;Weizmann;86;4490828
+449;Tel-Aviv;Dov Hoz;19;6634162
+859;Haifa;Balfur;88;6005578
+109;Jerusalem;Herzl;24;4791119
+602;Haifa;Balfur;75;2466978
+365;Tel-Aviv;Rotchild;73;5748195
+705;Ramat-Gan;Herzl;1;2653598
+17;Jerusalem;Dov Hoz;58;5743672
+410;Tel-Aviv;Herzl;19;2020731
+786;Jerusalem;Balfur;19;6227946
+388;Tel-Aviv;Dov Hoz;49;4642537
+697;Eilat;Rotchild;96;6228642
+470;Ashdod;Balfur;67;2477809
+945;Ashdod;Rotchild;11;4277443
+150;Haifa;Rotchild;1;6355100
+104;Eilat;Weizmann;39;6501427
+581;Eilat;Rotchild;54;5013443
+764;Haifa;Weizmann;80;2104701
+874;Ashdod;Weizmann;84;5346931
+760;Haifa;Rotchild;96;6800630
+935;Ashdod;Rotchild;4;3531091
+389;Eilat;Rotchild;43;2149628
+71;Ramat-Gan;Rotchild;94;6094189
+158;Tel-Aviv;Balfur;92;3930254
+281;Eilat;Herzl;25;5288015
+442;Ramat-Gan;Dov Hoz;2;6260436
+771;Eilat;Rotchild;25;2002725
+798;Tel-Aviv;Balfur;59;2473098
+287;Ramat-Gan;Dov Hoz;50;3701927
+886;Ramat-Gan;Rotchild;5;6072344
+289;Tel-Aviv;Weizmann;86;4604620
+57;Haifa;Weizmann;23;3554416
+229;Haifa;Balfur;85;3754830
+402;Eilat;Balfur;44;5601900
+862;Eilat;Herzl;32;5103455
+209;Ashdod;Dov Hoz;73;4230061
+929;Jerusalem;Rotchild;99;6693200
+473;Ashdod;Rotchild;4;4971980
+966;Tel-Aviv;Rotchild;20;5846022
+525;Jerusalem;Herzl;50;4368341
+891;Ashdod;Dov Hoz;56;4500938
+153;Eilat;Dov Hoz;83;3730989
+761;Jerusalem;Rotchild;41;2754444
+98;Haifa;Dov Hoz;45;5237160
+510;Ashdod;Herzl;81;3131660
+146;Haifa;Rotchild;23;5273096
+285;Jerusalem;Dov Hoz;3;6574909
+759;Ashdod;Dov Hoz;7;2082595
+461;Ramat-Gan;Dov Hoz;7;2875833
+650;Ramat-Gan;Balfur;77;5640305
+735;Ashdod;Rotchild;100;5593685
+312;Tel-Aviv;Weizmann;19;5073705
+84;Eilat;Rotchild;39;3472645
+297;Haifa;Weizmann;94;6251619
+83;Ashdod;Rotchild;8;4928880
+755;Eilat;Weizmann;19;6581845
+199;Eilat;Herzl;41;6701832
+487;Ramat-Gan;Dov Hoz;14;6317475
+662;Ramat-Gan;Herzl;5;4662494
+653;Eilat;Rotchild;42;4848019
+309;Jerusalem;Herzl;18;4209576
+414;Tel-Aviv;Herzl;43;2609883
+681;Tel-Aviv;Weizmann;98;2779557
+676;Jerusalem;Rotchild;97;2961573
+235;Tel-Aviv;Rotchild;92;3515253
+390;Jerusalem;Dov Hoz;58;3031980
+239;Tel-Aviv;Balfur;86;2625805
+542;Haifa;Rotchild;42;2034437
+378;Jerusalem;Rotchild;54;5330625
+983;Haifa;Weizmann;4;5926745
+325;Jerusalem;Weizmann;61;4356078
+806;Eilat;Dov Hoz;75;3518200
+692;Ashdod;Balfur;71;6440603
+47;Tel-Aviv;Weizmann;33;2277803
+836;Eilat;Dov Hoz;15;2919953
+683;Eilat;Balfur;54;2953298
+533;Jerusalem;Rotchild;100;5308758
+722;Haifa;Rotchild;29;3775632
+432;Eilat;Weizmann;10;5054271
+947;Haifa;Rotchild;79;5019280
+310;Eilat;Rotchild;98;3886544
+305;Eilat;Weizmann;49;5960341
+884;Ramat-Gan;Balfur;79;3098532
+450;Tel-Aviv;Weizmann;1;6292937
+615;Eilat;Herzl;16;6549045
+864;Ashdod;Herzl;49;2284742
+183;Haifa;Balfur;51;2154482
+629;Haifa;Weizmann;62;6125426
+984;Ramat-Gan;Rotchild;11;5259224
+23;Ashdod;Rotchild;16;6681797
+317;Ramat-Gan;Weizmann;89;2226100
+787;Jerusalem;Herzl;2;4767057
+231;Ashdod;Dov Hoz;90;5677588
+368;Tel-Aviv;Herzl;39;6097889
+385;Haifa;Rotchild;48;5409389
+21;Ashdod;Herzl;51;6224346
+893;Eilat;Weizmann;45;4369158
+467;Jerusalem;Herzl;77;4754482
+163;Ashdod;Weizmann;15;5838417
+308;Ashdod;Rotchild;45;2329560
+584;Jerusalem;Balfur;73;5830910
+359;Eilat;Herzl;11;4483472
+232;Ashdod;Dov Hoz;50;3373443
+44;Haifa;Weizmann;40;6447664
+956;Ashdod;Balfur;29;5653375
+60;Ashdod;Dov Hoz;98;3199925
+575;Ashdod;Weizmann;95;5100667
+804;Haifa;Dov Hoz;53;6424653
+48;Ramat-Gan;Herzl;64;2020779
+342;Ramat-Gan;Weizmann;55;2370611
+535;Tel-Aviv;Rotchild;18;3306782
+643;Eilat;Weizmann;54;5872048
+800;Eilat;Balfur;58;4692021
+259;Ramat-Gan;Dov Hoz;93;6755440
+671;Ashdod;Weizmann;77;4583069
+679;Jerusalem;Rotchild;27;5966455
+923;Ashdod;Rotchild;6;2113640
+434;Ashdod;Balfur;92;3474377
+361;Tel-Aviv;Herzl;74;4544434
+51;Tel-Aviv;Balfur;88;3840096
+961;Eilat;Dov Hoz;99;2313096
+240;Eilat;Dov Hoz;71;2584343
+257;Haifa;Herzl;31;2620964
+56;Jerusalem;Herzl;38;4704478
+208;Jerusalem;Herzl;52;2914041
+145;Tel-Aviv;Weizmann;2;3018158
+374;Ramat-Gan;Rotchild;83;2349451
+50;Eilat;Balfur;54;3389563
+39;Jerusalem;Balfur;58;5675673
+904;Tel-Aviv;Dov Hoz;91;3846705
+784;Jerusalem;Dov Hoz;4;3363276
+594;Ramat-Gan;Herzl;36;6287524
+344;Ashdod;Herzl;15;2042035
+466;Haifa;Herzl;43;2364651
+990;Jerusalem;Rotchild;85;4236170
+720;Haifa;Dov Hoz;92;5069715
+494;Ashdod;Rotchild;17;5520592
+725;Ramat-Gan;Balfur;29;6901194
+870;Ashdod;Herzl;94;5338883
+656;Ramat-Gan;Dov Hoz;64;3881509
+793;Tel-Aviv;Dov Hoz;8;6984466
+483;Eilat;Balfur;7;5381549
+327;Tel-Aviv;Herzl;60;2527096
+322;Eilat;Weizmann;31;3708445
+618;Ashdod;Rotchild;13;4738411
+794;Jerusalem;Balfur;37;6411976
+295;Haifa;Herzl;59;4983209
+768;Tel-Aviv;Balfur;93;5300148
+654;Ashdod;Balfur;56;5830559
+407;Jerusalem;Rotchild;26;3140262
+579;Haifa;Balfur;74;4512759
+731;Eilat;Rotchild;6;3586150
+198;Eilat;Herzl;40;5748137
+614;Eilat;Balfur;52;6367329
+987;Jerusalem;Rotchild;81;3777518
+154;Haifa;Balfur;12;2388778
+750;Eilat;Dov Hoz;27;6093430
+827;Tel-Aviv;Weizmann;53;5230545
+386;Jerusalem;Balfur;75;5214801
+330;Tel-Aviv;Weizmann;31;4897379
+554;Ramat-Gan;Balfur;94;6176176
+263;Eilat;Rotchild;91;3911167
+149;Eilat;Herzl;17;3600498
+457;Ramat-Gan;Rotchild;95;5090890
+532;Jerusalem;Herzl;88;4578408
+335;Ashdod;Balfur;86;5616663
+574;Haifa;Herzl;18;6663903
+586;Ramat-Gan;Dov Hoz;73;6348586
+571;Tel-Aviv;Herzl;60;5117926
+132;Eilat;Weizmann;78;5031996
+569;Tel-Aviv;Balfur;29;5656492
+191;Ramat-Gan;Weizmann;24;4741395
+444;Ashdod;Rotchild;53;4008519
+519;Haifa;Herzl;7;6160464
+792;Jerusalem;Balfur;86;4307198
+943;Eilat;Dov Hoz;82;5645282
+180;Jerusalem;Weizmann;41;5316944
+493;Jerusalem;Balfur;52;6372575
+241;Eilat;Herzl;82;3332186
+269;Eilat;Dov Hoz;17;4035840
+747;Ramat-Gan;Dov Hoz;34;4750672
+588;Eilat;Weizmann;17;6549380
+774;Jerusalem;Dov Hoz;44;2297450
+1;Tel-Aviv;Weizmann;38;4639205
+778;Eilat;Weizmann;20;3252051
+349;Eilat;Rotchild;82;3741390
+478;Haifa;Weizmann;92;5846441
+41;Tel-Aviv;Dov Hoz;62;3138655
+189;Eilat;Rotchild;94;2370942
+531;Eilat;Herzl;100;3229233
+256;Eilat;Dov Hoz;36;2587319
+846;Eilat;Weizmann;61;2583011
+213;Tel-Aviv;Herzl;6;4628136
+620;Ramat-Gan;Balfur;73;5150587
+729;Ramat-Gan;Herzl;92;5374258
+597;Ramat-Gan;Balfur;54;4254135
+688;Jerusalem;Rotchild;45;5555977
+825;Eilat;Rotchild;41;3484576
+509;Tel-Aviv;Rotchild;42;6955294
+431;Ashdod;Weizmann;97;3450194
+749;Haifa;Balfur;93;6515278
+689;Haifa;Balfur;96;6396340
+65;Tel-Aviv;Balfur;17;3967529
+283;Ashdod;Herzl;53;3466088
+277;Jerusalem;Rotchild;70;2571441
+202;Haifa;Dov Hoz;18;4746073
+682;Haifa;Dov Hoz;54;3268494
+329;Ramat-Gan;Weizmann;32;5744608
+501;Tel-Aviv;Balfur;70;4262827
+550;Tel-Aviv;Weizmann;19;3560571
+638;Tel-Aviv;Rotchild;1;5592596
+424;Haifa;Weizmann;46;4936468
+536;Jerusalem;Herzl;24;3894198
+364;Haifa;Weizmann;93;3566965
+803;Jerusalem;Herzl;42;3694987
+136;Tel-Aviv;Herzl;15;6554988
+506;Ashdod;Herzl;34;5721466
+373;Ashdod;Dov Hoz;84;2133051
+605;Eilat;Dov Hoz;38;6969801
+675;Haifa;Dov Hoz;76;3810392
+701;Ashdod;Dov Hoz;80;6237305
+986;Tel-Aviv;Weizmann;100;6582927
+544;Ramat-Gan;Weizmann;51;4281683
+754;Eilat;Herzl;54;3412770
+805;Jerusalem;Weizmann;44;3756149
+999;Tel-Aviv;Weizmann;97;6689506
+459;Ashdod;Weizmann;76;2420657
+606;Haifa;Weizmann;68;3147815
+147;Tel-Aviv;Herzl;92;5231725
+248;Ramat-Gan;Weizmann;7;2577136
+339;Jerusalem;Herzl;39;2494877
+320;Ashdod;Dov Hoz;61;2598678
+125;Tel-Aviv;Herzl;33;4113311
+822;Tel-Aviv;Weizmann;59;6664078
+831;Tel-Aviv;Rotchild;87;2323384
+412;Tel-Aviv;Weizmann;50;4505861
+417;Tel-Aviv;Herzl;17;5303669
+211;Ashdod;Herzl;79;5210087
+869;Tel-Aviv;Dov Hoz;67;4391967
+400;Haifa;Weizmann;34;3107950
+599;Ashdod;Dov Hoz;6;5633411
+821;Eilat;Herzl;23;6612662
+814;Ashdod;Weizmann;98;3869979
+710;Haifa;Balfur;61;3902972
+958;Ramat-Gan;Weizmann;94;5941252
+998;Tel-Aviv;Balfur;98;6076389
+105;Tel-Aviv;Herzl;66;3035024
+345;Ramat-Gan;Dov Hoz;79;6204252
+815;Eilat;Balfur;93;4992570
+871;Tel-Aviv;Dov Hoz;84;6639825
+711;Haifa;Weizmann;1;4823346
+196;Eilat;Rotchild;78;6813425
+625;Jerusalem;Herzl;36;6901761
+162;Jerusalem;Rotchild;51;2974870
+928;Ramat-Gan;Herzl;35;5625749
+167;Ramat-Gan;Balfur;85;2732375
+907;Jerusalem;Weizmann;28;2140709
+226;Ashdod;Rotchild;86;5509537
+577;Eilat;Rotchild;19;4367816
+957;Tel-Aviv;Dov Hoz;17;2781362
+161;Ramat-Gan;Weizmann;95;4047318
+541;Haifa;Dov Hoz;12;6000478
+479;Jerusalem;Weizmann;94;4985377
+700;Eilat;Dov Hoz;35;3163647
+375;Haifa;Rotchild;58;4128675
+630;Eilat;Weizmann;65;6464242
+828;Tel-Aviv;Herzl;30;2022985
+306;Jerusalem;Balfur;10;5217081
+278;Ramat-Gan;Herzl;99;4599759
+931;Haifa;Dov Hoz;44;6964099
+217;Haifa;Weizmann;71;4378728
+853;Tel-Aviv;Rotchild;85;5957159
+708;Eilat;Dov Hoz;64;3627631
+237;Eilat;Dov Hoz;78;6207848
+204;Eilat;Weizmann;63;2188118
+475;Jerusalem;Herzl;92;4487357
+346;Haifa;Herzl;41;4324006
+103;Haifa;Weizmann;56;3488285
+946;Ramat-Gan;Dov Hoz;48;4175535
+820;Eilat;Weizmann;11;5886290
+566;Eilat;Herzl;5;2697357
+736;Eilat;Herzl;13;2863005
+561;Ramat-Gan;Balfur;56;5848299
+598;Ramat-Gan;Weizmann;1;3730649
+321;Ramat-Gan;Herzl;27;5564506
+922;Tel-Aviv;Weizmann;49;3843443
+95;Ashdod;Herzl;31;6271489
+456;Eilat;Weizmann;11;2652500
+669;Ashdod;Weizmann;11;3134754
+274;Tel-Aviv;Dov Hoz;50;3306713
+212;Ramat-Gan;Dov Hoz;80;3957442
+977;Tel-Aviv;Weizmann;97;6842268
+553;Jerusalem;Weizmann;31;4151679
+791;Tel-Aviv;Dov Hoz;94;5330793
+892;Ashdod;Weizmann;34;6292036
+76;Jerusalem;Rotchild;19;2322462
+302;Ashdod;Balfur;15;6534001
+122;Jerusalem;Herzl;71;4375359
+601;Haifa;Herzl;4;3684093
+665;Ramat-Gan;Balfur;30;5787697
+160;Eilat;Balfur;45;6718450
+969;Eilat;Weizmann;38;2575926
+214;Haifa;Rotchild;55;6178874
+847;Eilat;Herzl;30;5596533
+273;Ramat-Gan;Weizmann;59;4726244
+96;Tel-Aviv;Dov Hoz;88;4913179
+952;Eilat;Dov Hoz;50;3036161
+570;Ashdod;Weizmann;41;3680641
+267;Ashdod;Rotchild;100;6922380
+236;Tel-Aviv;Balfur;42;5776731
+292;Eilat;Herzl;39;3302444
+591;Ashdod;Balfur;93;3133803
+395;Ramat-Gan;Rotchild;68;4747999
+69;Jerusalem;Balfur;80;5650945
+690;Tel-Aviv;Herzl;39;2592141
+917;Haifa;Rotchild;88;6345600
+762;Haifa;Herzl;48;3752588
+169;Tel-Aviv;Weizmann;71;3943230
+678;Ashdod;Herzl;82;3558076
+73;Jerusalem;Weizmann;82;2437910
+138;Eilat;Rotchild;94;6563161
+691;Ramat-Gan;Dov Hoz;5;6261964
+567;Haifa;Dov Hoz;93;4926741
+123;Eilat;Rotchild;10;4935581
+246;Ashdod;Balfur;30;3496219
+809;Jerusalem;Herzl;5;3930915
+288;Tel-Aviv;Rotchild;4;5560521
+549;Tel-Aviv;Weizmann;62;4205601
+547;Jerusalem;Balfur;38;4421357
+215;Ashdod;Rotchild;95;4241707
+582;Jerusalem;Weizmann;6;4009065
+863;Haifa;Rotchild;74;3765572
+53;Ramat-Gan;Rotchild;79;2439279
+484;Ramat-Gan;Weizmann;58;5993890
+751;Haifa;Herzl;38;3834792
+896;Ashdod;Rotchild;42;5664647
+942;Haifa;Herzl;85;4421091
+905;Tel-Aviv;Balfur;35;4783708
+596;Ramat-Gan;Dov Hoz;31;4335692
+558;Ramat-Gan;Herzl;17;6144280
+876;Ramat-Gan;Balfur;71;4494056
+13;Eilat;Balfur;5;6893616
+980;Jerusalem;Balfur;55;5045467
+497;Ramat-Gan;Herzl;48;4074797
+548;Ashdod;Dov Hoz;59;6797339
+489;Eilat;Balfur;68;5994662
+756;Tel-Aviv;Rotchild;47;2505605
+733;Haifa;Dov Hoz;17;2660071
+941;Ashdod;Weizmann;9;3341510
+411;Ashdod;Rotchild;16;4748004
+10;Ramat-Gan;Rotchild;49;6372713
+421;Eilat;Weizmann;67;5923350
+15;Eilat;Rotchild;21;4908688
+333;Tel-Aviv;Dov Hoz;27;3571753
+918;Ashdod;Weizmann;37;4323675
+474;Eilat;Herzl;89;5103057
+413;Ramat-Gan;Rotchild;86;4742970
+826;Tel-Aviv;Dov Hoz;73;5282408
+514;Tel-Aviv;Rotchild;91;4615658
+795;Haifa;Balfur;50;3068514
+446;Tel-Aviv;Rotchild;43;3144673
+840;Jerusalem;Herzl;1;5881107
+334;Ashdod;Balfur;81;2175776
+245;Jerusalem;Herzl;18;3172669
+265;Tel-Aviv;Herzl;79;4577514
+394;Jerusalem;Rotchild;1;4536781
+485;Ashdod;Dov Hoz;61;4784110
+438;Ramat-Gan;Rotchild;54;3898114
+968;Tel-Aviv;Weizmann;92;3215630
+200;Jerusalem;Rotchild;70;4893035
+648;Ramat-Gan;Rotchild;89;2999999
+657;Haifa;Rotchild;28;4448831
+898;Jerusalem;Rotchild;84;2148774
+97;Ramat-Gan;Rotchild;37;2970887
+270;Tel-Aviv;Balfur;59;5855674
+646;Tel-Aviv;Herzl;52;5780159
+319;Haifa;Herzl;73;4779506
+353;Ashdod;Balfur;68;5792803
+490;Ramat-Gan;Dov Hoz;37;5169529
+170;Ramat-Gan;Rotchild;74;5739180
+712;Tel-Aviv;Herzl;68;5675220
+590;Ashdod;Dov Hoz;43;6013517
+913;Jerusalem;Herzl;82;3459915
+979;Ramat-Gan;Herzl;57;2911211
+275;Ramat-Gan;Dov Hoz;6;5817672
+358;Jerusalem;Weizmann;23;4778425
+723;Jerusalem;Herzl;22;5834943
+45;Jerusalem;Dov Hoz;5;3372396
+128;Ashdod;Rotchild;67;2921125
+960;Ramat-Gan;Balfur;74;6693413
+380;Jerusalem;Rotchild;44;6270109
+673;Ramat-Gan;Weizmann;18;3652633
+855;Tel-Aviv;Balfur;57;4409893
+801;Eilat;Balfur;18;2213430
+276;Jerusalem;Dov Hoz;38;5959608
+992;Eilat;Herzl;68;2390093
+972;Haifa;Rotchild;70;3007705
+812;Ashdod;Weizmann;68;3471231
+807;Jerusalem;Dov Hoz;11;6163182
+164;Haifa;Balfur;4;4789900
+903;Jerusalem;Herzl;57;2664011
+347;Ashdod;Rotchild;42;6486017
+515;Ramat-Gan;Balfur;41;5234094
+114;Eilat;Dov Hoz;69;4889445
+398;Haifa;Herzl;70;5803696
+612;Haifa;Rotchild;45;3909720
+938;Ashdod;Weizmann;97;2745241
+823;Ramat-Gan;Balfur;34;5179132
+900;Eilat;Balfur;57;6226283
+837;Ashdod;Rotchild;99;2461346
+435;Eilat;Weizmann;13;3418623
+376;Haifa;Balfur;19;5919831
+932;Jerusalem;Balfur;5;5545051
+507;Tel-Aviv;Rotchild;36;2431850
+852;Jerusalem;Weizmann;10;6175524
+290;Ashdod;Herzl;40;5848871
+516;Eilat;Rotchild;83;5287800
+777;Haifa;Weizmann;39;6376943
+28;Ashdod;Balfur;46;3825388
+799;Ashdod;Dov Hoz;94;4699192
+790;Tel-Aviv;Weizmann;19;2427456
+197;Tel-Aviv;Weizmann;14;5874321
+16;Eilat;Rotchild;92;6246027
+134;Ashdod;Weizmann;40;2529948
+6;Ramat-Gan;Weizmann;53;4161449
+3;Ashdod;Herzl;91;2580730
+166;Eilat;Weizmann;43;3806860
+857;Haifa;Rotchild;49;5896162
+953;Ashdod;Weizmann;78;6909118
+468;Jerusalem;Herzl;98;5683449
+883;Ashdod;Balfur;26;6422817
+67;Jerusalem;Herzl;95;5302617
+86;Tel-Aviv;Rotchild;58;4728964
+721;Tel-Aviv;Herzl;76;5324744
+899;Tel-Aviv;Weizmann;73;2739143
+797;Tel-Aviv;Balfur;16;6694722
+63;Haifa;Balfur;5;4916791
+337;Jerusalem;Balfur;18;6261475
+603;Jerusalem;Rotchild;71;5167533
+428;Jerusalem;Rotchild;30;2861012
+129;Eilat;Weizmann;9;3832387
+247;Ramat-Gan;Balfur;98;2250322
+619;Eilat;Herzl;94;3284103
+307;Ashdod;Dov Hoz;63;2618628
+851;Jerusalem;Dov Hoz;74;6300638
+781;Ramat-Gan;Weizmann;35;4747640
+175;Eilat;Rotchild;27;5824140
+230;Haifa;Dov Hoz;8;5936777
+717;Haifa;Dov Hoz;41;3799659
+70;Ramat-Gan;Weizmann;13;2804774
+888;Eilat;Herzl;16;3821027
+168;Tel-Aviv;Weizmann;88;2779651
+652;Ramat-Gan;Weizmann;58;3356335
+178;Jerusalem;Weizmann;55;5369203
+633;Jerusalem;Dov Hoz;77;3583034
+645;Ramat-Gan;Balfur;60;3560158
+127;Eilat;Dov Hoz;26;4437429
+381;Ashdod;Dov Hoz;87;5578093
+772;Ashdod;Herzl;7;2013922
+491;Ramat-Gan;Weizmann;46;6979627
+555;Haifa;Balfur;33;5749637
+767;Tel-Aviv;Balfur;94;4988455
+336;Ashdod;Balfur;26;5707985
+133;Ashdod;Dov Hoz;3;4458389
+635;Jerusalem;Herzl;68;5397592
+500;Haifa;Weizmann;50;2012338
+530;Ashdod;Dov Hoz;5;6205274
+252;Ramat-Gan;Weizmann;9;2782301
+393;Haifa;Dov Hoz;14;4175317
+894;Ramat-Gan;Dov Hoz;86;5092389
+159;Ashdod;Balfur;69;4637497
+408;Ashdod;Rotchild;61;3273441
+511;Jerusalem;Herzl;42;6799072
+745;Ashdod;Weizmann;3;2414317
+121;Ramat-Gan;Herzl;9;3313894
+477;Tel-Aviv;Herzl;91;5256868
+707;Ashdod;Dov Hoz;8;6600498
+20;Eilat;Weizmann;97;5554029
+545;Eilat;Weizmann;15;4204872
+99;Haifa;Herzl;23;6163424
+463;Jerusalem;Herzl;35;3170333
+89;Jerusalem;Rotchild;33;4447930
+817;Jerusalem;Weizmann;30;3467287
+841;Tel-Aviv;Rotchild;44;6787739
+220;Eilat;Rotchild;11;3822853
+522;Ashdod;Herzl;94;5940170
+352;Tel-Aviv;Weizmann;22;6496786
+651;Eilat;Dov Hoz;4;5823482
+724;Tel-Aviv;Dov Hoz;86;2783238
+849;Jerusalem;Herzl;49;2475637
+642;Eilat;Rotchild;69;2551266
+585;Jerusalem;Herzl;84;3359307
+492;Tel-Aviv;Rotchild;21;6436191
+111;Ramat-Gan;Herzl;63;2634378
+155;Haifa;Rotchild;45;3858449
+965;Haifa;Weizmann;95;5816019
+696;Ramat-Gan;Rotchild;22;2921985
+206;Jerusalem;Dov Hoz;63;2690461
+850;Haifa;Dov Hoz;50;2568653
+433;Ramat-Gan;Rotchild;58;5864826
+119;Ashdod;Balfur;99;5992291
+498;Ashdod;Weizmann;8;3095457
+406;Haifa;Balfur;86;6764426
+460;Tel-Aviv;Dov Hoz;76;2240397
+996;Ramat-Gan;Rotchild;11;5733189
+112;Jerusalem;Balfur;84;6974510
+524;Haifa;Dov Hoz;26;4046758
+225;Ashdod;Weizmann;58;6047163
+785;Ashdod;Dov Hoz;92;5870902
+540;Ramat-Gan;Weizmann;3;6924025
+901;Ashdod;Rotchild;56;4979511
+971;Jerusalem;Herzl;66;6304330
+9;Ramat-Gan;Rotchild;96;4742366
+949;Ramat-Gan;Rotchild;20;4046344
+66;Ashdod;Balfur;22;6150314
+332;Ashdod;Herzl;41;6006400
+441;Haifa;Balfur;85;6420421
+182;Jerusalem;Rotchild;38;2794555
+392;Tel-Aviv;Weizmann;84;2066189
+190;Ramat-Gan;Dov Hoz;43;6288813
+709;Eilat;Dov Hoz;41;5815186
+773;Jerusalem;Balfur;61;6174467
+916;Haifa;Rotchild;37;3913776
+644;Haifa;Weizmann;52;6880575
+848;Jerusalem;Dov Hoz;86;2258050
+409;Tel-Aviv;Balfur;55;5413227
+458;Ashdod;Rotchild;52;6509492
+557;Eilat;Rotchild;42;3303654
+895;Tel-Aviv;Dov Hoz;47;3064567
+937;Eilat;Balfur;75;2364008
+985;Jerusalem;Dov Hoz;27;6456303
+611;Ramat-Gan;Dov Hoz;95;4623146
+955;Tel-Aviv;Dov Hoz;35;3822794
+78;Eilat;Herzl;96;5776312
+186;Haifa;Balfur;76;2996351
+482;Haifa;Balfur;5;4780404
+739;Eilat;Weizmann;94;4536723
+201;Ramat-Gan;Balfur;81;6112323
+91;Tel-Aviv;Weizmann;84;6991620
+227;Jerusalem;Rotchild;66;3995942
+260;Haifa;Weizmann;4;4827787
+924;Tel-Aviv;Weizmann;61;4514342
+429;Eilat;Rotchild;89;6137804
+75;Eilat;Herzl;49;4268347
+357;Ashdod;Rotchild;8;5093729
+637;Eilat;Dov Hoz;71;5457980
+668;Jerusalem;Dov Hoz;64;2658086
+420;Haifa;Herzl;35;5505530
+85;Haifa;Weizmann;86;2041982
+680;Ashdod;Balfur;72;5483111
+181;Tel-Aviv;Balfur;33;2870160
+453;Ashdod;Rotchild;60;3645019
+609;Tel-Aviv;Balfur;11;4781797
+1000;Ramat-Gan;Dov Hoz;58;4879412
+552;Tel-Aviv;Weizmann;38;2491633
+82;Tel-Aviv;Balfur;50;2046345
+505;Haifa;Rotchild;57;3327287
+528;Ashdod;Balfur;44;4470294
+856;Jerusalem;Herzl;30;4859450
+816;Tel-Aviv;Rotchild;38;5443039
+301;Jerusalem;Balfur;72;5729650
+488;Ashdod;Balfur;61;5475289
+959;Tel-Aviv;Weizmann;49;5194620
+445;Jerusalem;Balfur;17;6247435
+780;Eilat;Dov Hoz;7;4786217
+993;Tel-Aviv;Herzl;12;2353868
+865;Ramat-Gan;Balfur;23;6724273
+350;Jerusalem;Rotchild;82;2686554
+52;Ramat-Gan;Rotchild;60;4319424
+481;Jerusalem;Balfur;79;6964301
+655;Ramat-Gan;Rotchild;42;3318498
+282;Jerusalem;Weizmann;24;2854927
+583;Tel-Aviv;Weizmann;27;5559943
+272;Ashdod;Dov Hoz;19;2941302
+991;Jerusalem;Weizmann;94;4386754
+266;Eilat;Dov Hoz;81;6229817
+659;Haifa;Balfur;8;3477822
+504;Ramat-Gan;Rotchild;70;5180597
+11;Eilat;Rotchild;77;6025578
+68;Ramat-Gan;Rotchild;23;5737050
+251;Jerusalem;Dov Hoz;43;4264592
+157;Ashdod;Weizmann;98;3901547
+634;Haifa;Balfur;67;2105908
+694;Eilat;Dov Hoz;3;4164474
+706;Ashdod;Rotchild;55;6360030
+130;Tel-Aviv;Dov Hoz;64;6877619
+126;Jerusalem;Balfur;69;6196622
+377;Haifa;Dov Hoz;32;5578395
+789;Ramat-Gan;Rotchild;65;4857188
+589;Haifa;Herzl;36;3944933
+880;Eilat;Rotchild;60;4542011
+387;Jerusalem;Balfur;26;3267178
+882;Ashdod;Weizmann;54;2891192
+371;Haifa;Weizmann;67;6406893
+25;Ashdod;Balfur;43;5289426
+936;Jerusalem;Balfur;8;5407873
+989;Tel-Aviv;Herzl;26;3758444
+632;Jerusalem;Balfur;80;6507488
+867;Tel-Aviv;Rotchild;54;3572809
+811;Haifa;Weizmann;77;5935561
+318;Jerusalem;Balfur;13;3994712
+502;Ashdod;Dov Hoz;62;3417086
+604;Haifa;Balfur;63;2470625
+177;Ashdod;Dov Hoz;56;4260422
+64;Eilat;Herzl;99;3556014
+59;Eilat;Herzl;66;6115018
+835;Tel-Aviv;Balfur;59;5695890
+216;Ramat-Gan;Weizmann;1;3305051
+974;Ashdod;Weizmann;3;6886734
+187;Jerusalem;Herzl;18;4351822
+228;Haifa;Weizmann;67;6265623
+976;Ashdod;Herzl;91;3009371
+366;Ramat-Gan;Dov Hoz;16;2499568
+403;Jerusalem;Dov Hoz;98;2933374
+641;Eilat;Weizmann;94;3424437
+684;Eilat;Herzl;27;3339100
+72;Tel-Aviv;Dov Hoz;99;3016045
+845;Eilat;Balfur;37;4505249
+962;Eilat;Balfur;39;5273184
+824;Ramat-Gan;Rotchild;51;2398613
+981;Ramat-Gan;Balfur;98;2390438
+719;Jerusalem;Weizmann;87;5017670
+250;Eilat;Herzl;79;5940497
+783;Haifa;Dov Hoz;75;4186548
+877;Jerusalem;Weizmann;64;5339902
+18;Ramat-Gan;Weizmann;71;6327767
+622;Eilat;Weizmann;61;5592250
+802;Ramat-Gan;Herzl;62;5294463
+244;Jerusalem;Rotchild;43;2544791
+779;Tel-Aviv;Rotchild;24;3905202
+369;Haifa;Weizmann;4;6953972
+944;Tel-Aviv;Herzl;47;3294504
+699;Eilat;Rotchild;86;2532026
+40;Ramat-Gan;Rotchild;51;3363158
+819;Haifa;Balfur;75;3889056
+254;Tel-Aviv;Rotchild;35;3757421
+139;Ramat-Gan;Weizmann;89;2217268
+173;Eilat;Rotchild;22;3723870
+355;Tel-Aviv;Balfur;13;4750700
+576;Eilat;Weizmann;89;2964271
+313;Eilat;Balfur;88;6281213
+677;Jerusalem;Dov Hoz;62;5015270
+219;Ashdod;Weizmann;67;4545927
+775;Eilat;Balfur;43;4728086
+600;Haifa;Balfur;3;5603486
+830;Jerusalem;Balfur;54;6424785
+27;Ashdod;Dov Hoz;18;5300026
+326;Eilat;Dov Hoz;49;2323829
+79;Ashdod;Rotchild;36;2687101
+613;Ramat-Gan;Rotchild;99;3773280
+233;Haifa;Rotchild;38;5904131
+753;Haifa;Herzl;40;4235229
+22;Ashdod;Herzl;64;5828186
+627;Haifa;Herzl;9;2949985
+418;Eilat;Herzl;20;3382210
+933;Eilat;Herzl;19;6720148
+192;Jerusalem;Rotchild;86;4863422
+100;Ashdod;Herzl;13;4336755
+300;Eilat;Balfur;55;2743281
+914;Haifa;Weizmann;95;3954817
+184;Ramat-Gan;Balfur;66;5526803
+286;Ramat-Gan;Weizmann;12;5848721
+626;Haifa;Balfur;49;3130118
+513;Ashdod;Balfur;20;4636684
+534;Jerusalem;Herzl;33;5005025
+348;Ashdod;Rotchild;35;5054228
+379;Ramat-Gan;Balfur;41;3672045
+304;Jerusalem;Weizmann;92;3086146
+921;Eilat;Herzl;40;5312834
+293;Tel-Aviv;Dov Hoz;45;5454423
+640;Eilat;Herzl;41;6729737
+658;Eilat;Rotchild;90;3998166
+171;Eilat;Weizmann;91;4844179
+338;Ramat-Gan;Weizmann;93;5264562
+291;Tel-Aviv;Rotchild;52;3277644
+833;Haifa;Balfur;61;2513294
+360;Jerusalem;Herzl;83;6311856
+224;Ramat-Gan;Herzl;82;2823758
+396;Jerusalem;Dov Hoz;91;4793252
+832;Ashdod;Herzl;39;6889506
+148;Haifa;Rotchild;32;5402423
+436;Tel-Aviv;Herzl;24;5617815
+765;Tel-Aviv;Balfur;90;2999664
+141;Tel-Aviv;Balfur;9;6368850
+752;Tel-Aviv;Dov Hoz;73;3864469
+425;Ashdod;Dov Hoz;18;5822371
+776;Tel-Aviv;Herzl;11;2505175
+934;Ashdod;Weizmann;62;4230550
+674;Ashdod;Herzl;30;4366890
+523;Eilat;Balfur;75;6699262
+249;Eilat;Rotchild;9;3566474
+727;Jerusalem;Rotchild;39;5190584
+639;Jerusalem;Balfur;86;2790469
+930;Eilat;Dov Hoz;26;5756644
+480;Tel-Aviv;Rotchild;12;5497046
+503;Ramat-Gan;Balfur;67;3546119
+844;Ramat-Gan;Weizmann;18;2202955
+427;Jerusalem;Dov Hoz;6;5473825
+940;Haifa;Dov Hoz;47;4858828
+732;Ramat-Gan;Balfur;44;5685042
+367;Jerusalem;Weizmann;13;2547855
+4;Eilat;Dov Hoz;58;3662801
+372;Ashdod;Balfur;3;2466144
+564;Ashdod;Rotchild;12;3627742
+107;Haifa;Weizmann;80;5425915
+889;Tel-Aviv;Herzl;79;6740502
+30;Eilat;Balfur;56;3525390
+636;Tel-Aviv;Dov Hoz;45;3740437
+978;Tel-Aviv;Dov Hoz;14;3651286
+448;Ashdod;Balfur;23;6889261
+562;Tel-Aviv;Herzl;12;2963941
+897;Ashdod;Dov Hoz;80;3045610
+324;Haifa;Herzl;49;2203486
+954;Eilat;Dov Hoz;8;6420773
+90;Ramat-Gan;Dov Hoz;77;6116149
+280;Ashdod;Weizmann;55;6278762
+909;Ramat-Gan;Dov Hoz;54;6460913
+238;Ramat-Gan;Rotchild;82;6360137
+49;Jerusalem;Weizmann;63;5800537
+33;Ashdod;Rotchild;2;4436864
+647;Ramat-Gan;Herzl;37;3238783
+36;Eilat;Weizmann;79;3613564
+595;Ramat-Gan;Weizmann;79;3835352
+207;Jerusalem;Herzl;5;6408554
+496;Tel-Aviv;Rotchild;49;4443103
+120;Jerusalem;Dov Hoz;77;2715131
+649;Ramat-Gan;Weizmann;23;5088456
+54;Haifa;Dov Hoz;29;2635371
+879;Tel-Aviv;Herzl;24;6053982
+61;Eilat;Weizmann;45;2867108
+210;Ashdod;Balfur;69;6154545
+578;Tel-Aviv;Herzl;83;2761066
+465;Eilat;Herzl;20;3488558
+222;Haifa;Rotchild;74;5546582
+927;Ramat-Gan;Balfur;57;3939769
+866;Eilat;Dov Hoz;76;2912598
+316;Eilat;Balfur;32;6389258
+538;Ashdod;Herzl;14;4789166
+14;Ashdod;Dov Hoz;5;2361778
+55;Haifa;Weizmann;49;4126318
+521;Ashdod;Rotchild;83;3957248
+715;Eilat;Balfur;26;2686743
+296;Tel-Aviv;Herzl;42;2332308
+439;Tel-Aviv;Herzl;60;5385243
+563;Tel-Aviv;Dov Hoz;1;6608915
+151;Eilat;Rotchild;39;3868540
+43;Ashdod;Dov Hoz;70;5353902
+995;Ashdod;Dov Hoz;69;3719658
+726;Tel-Aviv;Herzl;69;2745149
